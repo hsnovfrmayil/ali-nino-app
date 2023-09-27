@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245564969381",
+    "project_id": "alinino",
+    "storage_bucket": "alinino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245564969381:android:532e011a2a7347dee3d84c",
+        "android_client_info": {
+          "package_name": "com.example.alinino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245564969381-s5jav003i1togt62ls6se4td9oht4915.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Vfc3d1DPFRbg2i7hCCGh7Xraz_M3ilU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245564969381-s5jav003i1togt62ls6se4td9oht4915.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
